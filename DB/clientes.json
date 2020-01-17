@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e17a87a534e983d04ce7dbc"},"nombre":"natalia","apellido":"chattellino","empresa":"chattellinosa","email":"correo2@correo.com","telefono":"12313123123122","__v":0}
+{"_id":{"$oid":"5e18825ba098ee33383409d4"},"nombre":"juan","apellido":"perez","empresa":"perezcomp","email":"correo9@correo.com","telefono":"12312312321","__v":0}
+{"_id":{"$oid":"5e188315221c8345c463918b"},"nombre":"pedro","apellido":"perez","empresa":"perezcomp","email":"correo10@correo.com","telefono":"12312312321","__v":0}
+{"_id":{"$oid":"5e1db103bdf9a33050a2dbc6"},"nombre":"karen","apellido":"perez","empresa":"airbnb","email":"karen@correo.com","telefono":"1231231231","__v":0}
+{"_id":{"$oid":"5e1db159bdf9a33050a2dbc9"},"nombre":"juana","apellido":"chattellino","empresa":"juanacomp","email":"juana@correo.com","telefono":"1234","__v":0}
+{"_id":{"$oid":"5e1dbb756670cb3e08d2d909"},"nombre":"alejandro","apellido":"chattellino","empresa":"alechate","email":"ale@correo.com","telefono":"12343434","__v":0}

@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e20cd6c9b1522323cb12cda"},"nombre":"pedro","password":"$2b$12$xPMgMVzTNfmSpxC1i2hV7.XiXqlrORCPxYX8MxtukFo7rPBs9Rn6y","__v":0}
+{"_id":{"$oid":"5e20ce329b1522323cb12cdc"},"email":"matias@matias.com","nombre":"matias","password":"$2b$12$Ot4m56BomEf6mggP0Te9BOp1gsW4JOwJ/PD8sK7TbiZhX8KZDJc3C","__v":0}

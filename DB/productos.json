@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e1c4a37c71030463c562fda"},"nombre":"Camisa React.js","precio":25,"imagen":"Ukqar5vH.jpeg","__v":0}
+{"_id":{"$oid":"5e1c4a45c71030463c562fdb"},"nombre":"Camisa Nodejs","precio":25,"imagen":"H0N_3ogU.jpeg","__v":0}
+{"_id":{"$oid":"5e1eef7d06a46553c8e93bab"},"nombre":"camisa sass","precio":30,"imagen":"lnsgX_lg.jpeg","__v":0}
+{"_id":{"$oid":"5e1eef7e06a46553c8e93bac"},"nombre":"camisa sass","precio":30,"imagen":"-7ND68Ta.jpeg","__v":0}
+{"_id":{"$oid":"5e1eefcd06a46553c8e93bad"},"nombre":"camisa html5","precio":12,"imagen":"_4S4uav5.jpeg","__v":0}
+{"_id":{"$oid":"5e1ef04c06a46553c8e93bae"},"nombre":"github","precio":30,"imagen":"uQ9f8tgY.jpeg","__v":0}
